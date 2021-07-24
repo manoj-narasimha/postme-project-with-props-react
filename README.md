@@ -1,2 +1,2 @@
-# postme-project-with-props-react
+# React-app-practice
 Created with CodeSandbox

@@ -1,0 +1,65 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  color: white;
+}
+body {
+  background: black;
+  margin: 0px;
+  align-content: left;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.card {
+  text-align: center;
+  background: white;
+  height: 50vh;
+  width: 500px;
+  border-radius: 10px;
+  align-content: center;
+
+  padding: 0px;
+  margin: 30px;
+}
+.title {
+  padding-left: 10px;
+  /*background: rgb(187, 28, 28);*/
+  color: rgb(7, 7, 7);
+  /*border-radius: 50px;*/
+  /*position: relative;*/
+}
+img {
+  padding: 20px;
+  width: 200px;
+}
+h3 {
+  text-align: left;
+  padding-left: 50px;
+  margin: 10px;
+  font-weight: bold;
+}
+p {
+  text-align: left;
+  padding-left: 20px;
+  margin: 0px;
+}
+.main {
+  background: yellow;
+  padding: 10px;
+  margin: 10px;
+}
+input {
+  text-align: center;
+  margin-left: -250px;
+  margin-top: 40px;
+  padding: 12px;
+  border: 1px solid rgb(0, 0, 0);
+  text-decoration: none;
+
+  border-radius: 50px;
+}
+input :active {
+  border: none;
+  border-radius: 0px;
+}
